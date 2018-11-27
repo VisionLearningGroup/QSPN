@@ -1,2 +1,1 @@
-# QSPN
-Implementation for "Multilevel Language and Vision Integration for Text-to-Clip Retrieval" coming soon...
+Please redirect to "https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval".
